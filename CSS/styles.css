@@ -1,0 +1,53 @@
+/*********************Tag Selections*******************/
+
+h1{
+   color: 17706e;
+}
+h2{
+   color: blue;
+}
+
+h3{
+  color: #01a9b4;
+}
+
+
+body{
+     background-color: #b6eb7a;
+}
+
+img{
+    width: 20%;
+    height: auto;
+    border-radius: 100%;
+}
+/**************************Class Selections***************************/
+
+.top-container{
+               color: blue;
+
+}
+
+.middle-container{
+                  background-color: green;
+}
+
+.bottom-container{
+                  background-color: orange;
+}
+
+.activies{
+          color: red;
+}
+
+
+
+
+
+
+
+
+/***********************ID Selections***************************/
+#facebook{
+          color: blue;
+}
